@@ -1,0 +1,1 @@
+# To-disable-right-click-or-inspect-in-a-flutter-web-app
