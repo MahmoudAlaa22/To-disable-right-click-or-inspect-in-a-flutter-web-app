@@ -1,6 +1,6 @@
 # Disable Right-Click and Inspect in Flutter Web App
 
-Disabling the inspect element option in a Flutter Web app can provide a level of protection against casual users trying to explore or manipulate your code. However, it's essential to acknowledge that determined users can still find ways to inspect the page or disable JavaScript.
+Preventing users from right-clicking and inspecting your Flutter web app can add an additional layer of protection to your code. While it's important to note that determined users may still find ways to inspect the page or disable JavaScript, implementing these steps can deter casual users from accessing your code easily.
 
 ## Steps to Implement:
 
